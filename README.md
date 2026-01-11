@@ -8,19 +8,19 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
 - 🌱 Atualmente aprendendo Python, lógica de programação e interfaces gráficas (Tkinter)  
 - 👯 Interessado em colaborar em projetos científicos, sistemas embarcados e de arduino
 
-   </a>
-<a href="http://instagram.com/_holanda.sci/" target="_blank">
-    <img 
-        alt="instagram profile" 
-        title="Perfil no Instagram" 
-        src="https://custom-icon-badges.demolab.com/badge/Instagram-@_holanda.sci-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-    />
-    </a> 
+ <p>
+    <a href="http://instagram.com/_holanda.sci/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-@_holanda.sci?color=E4405F&labelColor=C13584&style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/Holandaz?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Holandaz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Holandaz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&logoColor=white"
         />
     </a>
     <a href="https://github.com/Holandaz?tab=followers">
