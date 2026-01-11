@@ -13,7 +13,7 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-_holanda.sci?color=E4405F&labelColor=C13584&style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-holanda.sci?color=E4405F&labelColor=C13584&style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
     <a href="https://github.com/Holandaz?tab=repositories&sort=stargazers">
