@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Holandaz 
+# 👨🏽‍💻 Holandaz 
 
 **`Estudante de Física`**
 
@@ -64,10 +64,3 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Holandaz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Holandaz&layout=compact&theme=tokyonight&hide_border=true)
-
