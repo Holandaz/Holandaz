@@ -67,19 +67,6 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Holandaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Holandaz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
 
-  <img 
-    align="left" 
-    alt="GitHub Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holandaz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Holandaz&theme=tokyonight&layout=compact&langs_count=9&hide_border=true)
