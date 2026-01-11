@@ -2,19 +2,19 @@
 
 **`Desenvolvedora FullStack`**
 
-Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho interesse em programação e tecnologia. Unindo física com programação 
+Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho interesse em programação e tecnologia. Unindo física com programação  
 
 - 🔭 Atualmente desenvolvendo projetos em Python e C/C++ para estudo e portfólio  
 - 🌱 Atualmente aprendendo Python, lógica de programação e interfaces gráficas (Tkinter)  
-- 👯 Interessado em colaborar em projetos científicos ou de arduino
+- 👯 Interessado em colaborar em projetos científicos, sistemas embarcados e de arduino
 
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+   </a>
+<a href="http://instagram.com/_holanda.sci/" target="_blank">
+    <img 
+        alt="instagram profile" 
+        title="Perfil no Instagram" 
+        src="https://custom-icon-badges.demolab.com/badge/Instagram-@_holanda.sci-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+    />
     </a> 
     <a href="https://github.com/Holandaz?tab=repositories&sort=stargazers">
         <img 
