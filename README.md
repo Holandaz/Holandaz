@@ -6,7 +6,7 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
 
 - 🔭 Atualmente desenvolvendo projetos em Python e C/C++ para estudo e portfólio  
 - 🌱 Atualmente aprendendo Python, lógica de programação e interfaces gráficas (Tkinter)  
-- 👯 Interessado em colaborar em projetos científicos, sistemas embarcados e de arduino
+- 👯 Interessado em colaborar em projetos científicos, Análise de dados e sistemas embarcados
 
  <p>
     <a href="https://github.com/Holandaz?tab=repositories&sort=stargazers">
