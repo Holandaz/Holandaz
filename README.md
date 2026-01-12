@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=9e36c5&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=fcfcfa&textBg=false"/>
 # 👨🏽‍💻 Holandaz 
 
 *Estudante de Física*
