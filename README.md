@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=fcfcfa&textBg=false"/>
-<b>👨🏽‍💻 Holandaz</b>
+<b>👨🏽‍💻 HOLANDAZ</b>
 
-*Estudante de Física*
+*`Estudante de Física`*
 
 Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho interesse em programação e tecnologia. Unindo física com programação  
 
@@ -55,6 +55,16 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arduino.svg"
+/>
+
 
 <br/>
 <br/>
