@@ -36,7 +36,7 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
     title="C" 
     width="30px" 
     style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" 
           />
 <img 
     align="left" 
