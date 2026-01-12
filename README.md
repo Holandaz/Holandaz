@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=9e36c5&textBg=false"/>
-
 # 👨🏽‍💻 Holandaz 
 
 *Estudante de Física*
@@ -59,5 +58,4 @@ Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho inter
 
 <br/>
 <br/>
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=141&color=9e36c5&textBg=false&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=141&color=fcfcfa&textBg=false&section=footer"/>
