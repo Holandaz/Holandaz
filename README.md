@@ -6,7 +6,7 @@
 Meu nome é Lucas Holanda, tenho 20 anos, sou estudante de Física e tenho interesse em programação e tecnologia. Unindo física com programação  
 
 - 🔭 Atualmente desenvolvendo projetos em Python e C/C++ para estudo e portfólio  
-- 🌱 Atualmente aprendendo Python, lógica de programação e interfaces gráficas (Tkinter)  
+- 🌱 Atualmente aprendendo Python, lógica de programação, interfaces gráficas (Tkinter), Power Bi e DAX
 - 👯 Interessado em colaborar em projetos científicos, Análise de dados e sistemas embarcados
 
  <p>
